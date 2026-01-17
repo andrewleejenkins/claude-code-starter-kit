@@ -1,6 +1,15 @@
 # Claude Code Development Starter Kit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/v/release/andrewleejenkins/claude-code-starter-kit)](https://github.com/andrewleejenkins/claude-code-starter-kit/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/andrewleejenkins/claude-code-starter-kit)](https://github.com/andrewleejenkins/claude-code-starter-kit/stargazers)
+[![macOS](https://img.shields.io/badge/macOS-supported-brightgreen)](https://github.com/andrewleejenkins/claude-code-starter-kit)
+[![Windows](https://img.shields.io/badge/Windows-supported-brightgreen)](https://github.com/andrewleejenkins/claude-code-starter-kit)
+[![Linux](https://img.shields.io/badge/Linux-supported-brightgreen)](https://github.com/andrewleejenkins/claude-code-starter-kit)
+
 Welcome! This starter kit will help you set up Claude Code as your AI-powered development assistant and configure it with professional development guidelines.
+
+**[Download Latest Release](https://github.com/andrewleejenkins/claude-code-starter-kit/releases/latest/download/claude-code-starter-kit.zip)**
 
 ---
 
